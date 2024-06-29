@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Development Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Web Development Projects</h1>
+    </header>
+
+    <section class="project">
+        <h2>Project 1: Example Project</h2>
+        <div class="project-info">
+            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Technologies used: HTML, CSS, JavaScript</p>
+            <a href="project1-demo.mp4" target="_blank"><img src="project1-screenshot.jpg" alt="Project 1 Screenshot" class="project-screenshot"></a>
+        </div>
+    </section>
+
+    <section class="project">
+        <h2>Project 2: Another Project</h2>
+        <div class="project-info">
+            <p>Description: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Technologies used: HTML, CSS, Bootstrap, JavaScript</p>
+            <a href="project2-demo.mp4" target="_blank"><img src="project2-screenshot.jpg" alt="Project 2 Screenshot" class="project-screenshot"></a>
+        </div>
+    </section>
+
+    <!-- Add more projects here -->
+
+    <footer>
+        <p>&copy; 2024 My Portfolio</p>
+    </footer>
+</body>
+</html>
